@@ -8,4 +8,5 @@ describe MultipleString do
       expect("a" * 2).to eq "aa"
     end
   end
+
 end
